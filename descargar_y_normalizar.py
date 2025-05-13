@@ -5,10 +5,10 @@
 # SQL_SERVER_ENGINE={SQL Server}
 # SQL_SERVER_SERVER=
 
-#  --> si no está la carpeta espacio virtual  --> python -m venv espacio_virtual  
-#escribir y ejectuar   .\espacio_virtual\Scripts\activate  --> sale asi despues (espacio_virtual) PS D:\VII SEMESTRE\proyecto_bd_TD>    
-#pip install -r requirements.txt#py 
-# .\descargar_y_normalizar.py 
+#  --> si no está la carpeta espacio_virtual  --> python -m venv espacio_virtual  
+#escribir y ejectuar --> .\espacio_virtual\Scripts\activate  --> sale asi despues (espacio_virtual) PS D:\VII SEMESTRE\proyecto_bd_TD>    
+#dentro de espacio_virtual escribir y ejectuar --> pip install -r requirements.txt
+#dentro de espacio_virtual escribir y ejectuar --> py .\descargar_y_normalizar.py 
 
 import pandas as pd
 import os
