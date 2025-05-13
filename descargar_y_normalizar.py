@@ -1,4 +1,4 @@
-# crear archivo .env con y escribir la informacion de su bd en caso de ser con usuario y contraseña
+# crear archivo .env y escribir la informacion de su bd en caso de ser con usuario y contraseña
 # SQL_SERVER_USER=
 # SQL_SERVER_PASSWORD=
 # SQL_SERVER_DB=
@@ -6,8 +6,9 @@
 # SQL_SERVER_SERVER=
 
 #  --> si no está la carpeta espacio virtual  --> python -m venv espacio_virtual  
-#.\espacio_virtual\Scripts\activate  --> sale asi despues (espacio_virtual) PS D:\VII SEMESTRE\proyecto_bd_TD>    
-#pip install -r requirements.txt#py .\descargar_y_normalizar.py 
+#escribir y ejectuar   .\espacio_virtual\Scripts\activate  --> sale asi despues (espacio_virtual) PS D:\VII SEMESTRE\proyecto_bd_TD>    
+#pip install -r requirements.txt#py 
+# .\descargar_y_normalizar.py 
 
 import pandas as pd
 import os
